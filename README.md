@@ -28,7 +28,7 @@ This project is a simple Node.js application that interacts with an AI language 
 
    ```bash
    git clone https://github.com/gabrielmasampaio/findmytravelai.git
-   cd travel-ai-webapp
+   cd findmytravelai
    ```
 
 2. Install dependencies:
